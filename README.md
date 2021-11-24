@@ -1,6 +1,6 @@
 # Javascript-pattern
 
-**#pattern-1**   
+**#pattern-01**   
 ```text 
 x  
 x x   
@@ -9,7 +9,7 @@ x x x x
 x x x x x   
 ```
 
-**#pattern-2**  
+**#pattern-02**  
 ```text 
 x x x x x   
 x x x x   
@@ -18,7 +18,7 @@ x x
 x   
 ```
 
-**#pattern-3**  
+**#pattern-03**  
 ```text 
 x   
 x x    
@@ -29,7 +29,7 @@ x x
 x   
 ```
 
-**#pattern-4**  
+**#pattern-04**  
 ```text 
         x  
       x x x   
@@ -38,7 +38,7 @@ x
 x x x x x x x x x  
 ```
 
-**#pattern-5**  
+**#pattern-05**  
 ```text 
  x x x x x x x x x   
    x x x x x x x   
@@ -47,7 +47,7 @@ x x x x x x x x x
          x   
  ```
        
-**#pattern-6**  
+**#pattern-06**  
 ```text 
      x   
     x x   
@@ -56,7 +56,7 @@ x x x x x x x x x
  x x x x x  
  ```
  
-**#pattern-7**  
+**#pattern-07**  
 ```text 
  x x x x x   
   x x x x   
@@ -65,7 +65,7 @@ x x x x x x x x x
      x   
  ```
 
-**#pattern-8** 
+**#pattern-08** 
 ```text 
        x   
       x x   
@@ -80,7 +80,7 @@ x x x x x x x x x
        x 
        
 ```
-**#pattern-9** 
+**#pattern-09** 
 ```text 
         x 
       x x x 
@@ -93,7 +93,7 @@ x x x x x x x x x
         x 
 ```
 
-**#pattern-9** 
+**#pattern-10** 
 ```text 
 x x x x x x x x x 
   x x x x x x x 

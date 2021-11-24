@@ -118,4 +118,17 @@ x x x x x
 x x x x x 
 ```
 
+**#pattern-10** 
+```text 
+ x x x x x 
+  x x x x 
+   x x x 
+    x x 
+     x 
+     x 
+    x x 
+   x x x 
+  x x x x 
+ x x x x x
+```
 

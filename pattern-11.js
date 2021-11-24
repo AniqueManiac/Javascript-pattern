@@ -1,7 +1,8 @@
-var n = 9;
+var x=5;
+var n =x+1;
 string = "";
 
-for(i = 0; i<=(n*2)-1 ; i++){
+for(i = 0; i<=(n*2) ; i++){
 
   if(i<=n){
 

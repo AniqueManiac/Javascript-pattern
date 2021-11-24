@@ -118,7 +118,7 @@ x x x x x
 x x x x x 
 ```
 
-**#pattern-10** 
+**#pattern-12** 
 ```text 
  x x x x x 
   x x x x 
@@ -131,7 +131,7 @@ x x x x x
   x x x x 
  x x x x x
 ```
-**#pattern-10** 
+**#pattern-13** 
 ```text 
 x x x x x 
   x x x 

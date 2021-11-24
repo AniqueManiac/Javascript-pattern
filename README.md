@@ -105,7 +105,7 @@ x x x x x x x x x
   x x x x x x x 
 x x x x x x x x x
 ```
-**#pattern-10** 
+**#pattern-11** 
 ```text 
 x x x x x x x x x x 
  x x x x x x x x x 

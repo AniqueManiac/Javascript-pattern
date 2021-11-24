@@ -80,4 +80,17 @@ x x x x x x x x x
        x 
        
 ```
+**#pattern-8** 
+```text 
+        x 
+      x x x 
+    x x x x x 
+  x x x x x x x 
+x x x x x x x x x 
+  x x x x x x x 
+    x x x x x 
+      x x x 
+        x 
+```
+
 

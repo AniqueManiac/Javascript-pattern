@@ -107,19 +107,15 @@ x x x x x x x x x
 ```
 **#pattern-11** 
 ```text 
-x x x x x x x 
- x x x x x x 
-  x x x x x 
-   x x x x 
-    x x x 
-     x x 
-      x 
-     x x 
-    x x x 
-   x x x x 
-  x x x x x 
- x x x x x x 
-x x x x x x x
+x x x x x 
+ x x x x 
+  x x x 
+   x x 
+    x 
+   x x 
+  x x x 
+ x x x x 
+x x x x x 
 ```
 
 

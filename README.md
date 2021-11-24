@@ -93,4 +93,16 @@ x x x x x x x x x
         x 
 ```
 
+**#pattern-9** 
+```text 
+x x x x x x x x x 
+  x x x x x x x 
+    x x x x x 
+      x x x 
+        x 
+      x x x 
+    x x x x x 
+  x x x x x x x 
+x x x x x x x x x
+```
 

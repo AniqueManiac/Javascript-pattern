@@ -1,5 +1,5 @@
 var x=5;
-var n =x+1;
+var n =x-1;
 string = "";
 
 for(i = 0; i<=(n*2) ; i++){
